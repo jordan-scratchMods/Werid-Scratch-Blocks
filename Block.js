@@ -1,0 +1,1 @@
+var text; ext._shutdown = function() {};ext._getStatus = function() { return {status: 2, msg: 'Ready'};}; ext.ED} = function (callback){ window.alert('mmm'); alert(Here Text (I Guess)) }; var descriptor = { blocks: [ return 'Yeah'; ],menus: {},url: 'https://kyleplo.github.io/scratch-extension-creator/help#'Hello!};ScratchExtensions.register('Alert Block', descriptor, ext);
